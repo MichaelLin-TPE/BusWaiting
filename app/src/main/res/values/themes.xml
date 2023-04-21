@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BusWaiting" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#0078D7</item>
+    </style>
+</resources>
